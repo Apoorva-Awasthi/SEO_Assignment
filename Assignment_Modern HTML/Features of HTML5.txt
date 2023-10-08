@@ -1,0 +1,13 @@
+Features of HTML5:
+
+ --> Semantic Elements - "Semantic" refers to the meaning of the text. It is the use of HTML tags accurately that reflect the content they          contain.
+
+ --> Audio and Video Support - For embedding the "Audio" and "Video" into HTML document, following two tags <audio> and <video> are used.
+
+ --> Canvas Elements - <canvas> tag is used with two specific attributes, width and height. With the help of JavaScript we used to draw shapes, lines, images, and more.
+
+ --> Geolocation API - It is an  HTML feature that is used to access the geographical position of a user.
+
+ --> Local Storage - This feature is useful for creating offline applications where data is need to be stored locally. 
+
+ --> Responsive Images - HTML 5 makes the process handy by including srcset attribute to specify multiple versions of an image at different screen resolutions. 

@@ -1,0 +1,10 @@
+Ways to improve accessibility of HTML:
+
+1) Add proper alt text to images:
+   --> Using alt text to provide access to the content of images for individuals who cannot see them, including people using screen readers or Braille output devices. 
+
+2) Use Headings properly:
+   --> It help non-visual users (including search engines) to understand how the page is organized, and make it easy for screen reader users to navigate.
+
+3) Add labels to form fields:
+   --> Using the HTML label element so screen reader users will know which labels or prompts are associated with which form fields.

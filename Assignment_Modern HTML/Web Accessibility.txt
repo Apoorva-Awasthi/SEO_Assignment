@@ -1,0 +1,17 @@
+Web Accessibility:
+
+--> Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. 
+--> It is used so that people can: perceive, understand, navigate, and interact with the Web and contribute to the Web.
+
+Accessibility is Important for Individuals and Society
+
+--> It is essential that the Web is accessible in order to provide equal access and equal opportunity to people with diverse abilities.
+--> Accessibility supports social inclusion for people with disabilities as well as others, such as:
+       - older people
+       - people in rural areas
+       - people in developing countries 
+--> There is also a strong business case for accessibility.
+--> Accessibility can enhance the brand, drive innovation, and extend the market reach.
+
+For Example:
+  If alt text isn’t provided for images, the image information is inaccessible, to people who cannot see and use a screen reader that reads aloud the information on a page, including the alt text for the visual image.
